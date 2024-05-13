@@ -24,7 +24,7 @@ Features:
 - Fork the project into your GitHub
 - Clone it into your dektop
 ```
-git clone https://github.com/jacesca/StatisticsConcepts.git
+git clone https://github.com/jacesca/TensorFlow.git
 ```
 - Setup environment (it requires python3)
 ```
@@ -65,7 +65,7 @@ python WineForecastingSklearn.py        # Problem solved using sklearn neural ne
 ```
 
 ## Others
-- Proyect in GitHub: https://github.com/jacesca/StatisticsConcepts
+- Proyect in GitHub: https://github.com/jacesca/TensorFlow
 - Commands to save the environment requirements:
 ```
 conda list -e > requirements.txt
